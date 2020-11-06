@@ -6,13 +6,13 @@
 ----
 
 <p align="center">
-  <img src="samples/Figure_2.png" alt="src2"/>
+  <img src="samples/Figure_2.png" alt="src2" width=768/>
 </p>
 
 ----
 
 <p align="center">
-  <img src="samples/Figure_3.png" alt="src3"/>
+  <img src="samples/Figure_3.png" alt="src3" width=768/>
 </p>
 
 
