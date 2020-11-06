@@ -23,6 +23,6 @@ Papers:
   
 
 ## Run
-Example 
 ```shell
-python main.py --image data/cat-dog.jpg --topk 2
+python main.py
+```
